@@ -1,0 +1,10 @@
+.demo {
+    background-color: teal;
+    width: 400px;
+    height: 400px;
+}
+.vip {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px #bba2d0;
+}
